@@ -1,6 +1,6 @@
 # LinkedLists
 
-Solution to linked list project from the course [The Odin Projec](https://www.theodinproject.com/lessons/javascript-linked-lists).
+Solution to linked list project from the course [The Odin Project](https://www.theodinproject.com/lessons/javascript-linked-lists).
 
 ### Used methods:
 
